@@ -32,6 +32,8 @@ Following are some useful tasks for Development Team Leads to take on and own. T
   * What are you doing today?
   * Do you have any blockers?
   * No side-discussions, save those for post-standup
+  * No laptops !!!
+  * Maybe toss around a ball and have the speaker hold it
 * Work to clear blockers for your team
   * Own and resolve access/connection/account problems
   * Own and facilitate the resolution of human dependency issues
