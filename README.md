@@ -72,3 +72,13 @@ Following are some useful tasks for Development Team Leads to take on and own. T
   * "Did you know Bob is really good at X?"
   * "Did you know Jane worked 62 hours last week to meet our deliverable?"
   * "Did you know Pat's SO was injured at work and they have 9 kids?"
+* Create and Own Your On-Boarding Process
+  * How do I get access to services?
+  * How do I get help with issues?
+  * How do I setup my environment?
+  * How do I check-out the code?
+  * How do I build the code?
+  * Where is a list of your domain-specific terminology?
+  * Where do I park?
+  * Where do you all eat lunch?
+  * Etc.
