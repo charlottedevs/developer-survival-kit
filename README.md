@@ -1,6 +1,21 @@
 # developer-survival-kit
 wisdom for developers
 
+## Responsibilities of a Developer
+Following are some useful traits and practices for Developers. This is by no means an exhaustive list, and it's by no means a required list, but rather a collection of recommendations. Your workplace will determine your required responsibilities and the things you must do to maintain your position in the organization. This is a list of things you should do as a good Develpment Team Member or a citizen of your organization.
+
+* Be a team player. Follow your team's conventions and processes
+* Be vocal. Communicate frequently: particularly blockers, risk or other inhibitors to progress
+* Be constructive. Offering criticism without solutions is poor form
+* Be helpful. You are part of a larger team working toward a common goal.
+* Be mindful. When you write code, leave it in the condition you would hope to find it in.
+* Be open. Your ideas are good and important, but so are the ideas of others. You don't know everything.
+* Be aware. Listen in meetings and to your team members. Information is everywhere.
+* Be present. Whether you're in the office or remote, participate in discussions, meetings and other events.
+* Be responsible. Deliver on your promises, set realistic expectations and communicate when you cannot meet your goals.
+* Be flexible. Process is good, but progress is better. Sometimes you have to work around process to make progress.
+
+
 ## Responsibilities of a Development Team Lead
 Following are some useful tasks for Development Team Leads to take on and own. This is by no means an exhaustive list, or a required list, but rather a list of recommendations. Your unique work environment, team structure and team makeup will determine which of these items are useful or necessary.
 
