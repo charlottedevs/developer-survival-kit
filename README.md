@@ -15,6 +15,19 @@ Following are some useful traits and practices for Developers. This is by no mea
 * Be responsible. Deliver on your promises, set realistic expectations and communicate when you cannot meet your goals.
 * Be flexible. Process is good, but progress is better. Sometimes you have to work around process to make progress.
 
+## Responsibilities of a Junior Developer
+As a junior, your primary role is to learn the domain knowledge of your workplace as well as tricks of the trade from your fellow developers. This is a list of recommendations similar to that of the developer, but with a focus on how it applies to you.
+
+* Be a team player. Follow your team's conventions and processes. However, as a junior, you should ask questions. If you don't know something, you should be asking.
+* Be vocal. Give your opinions. Ask questions. Communicate your blockers. Never assume you have nothing to contribute, but make sure you are valuing the experience of others as well.
+* Be constructive. Learn to ask questions in a positive manner and find ways to give criticism paired with solutions. Learning to accept these as well from others will go a long way.
+* Be helpful. Try things out. Experience things you aren't familiar with. This will help you learn and help build your confidence. Find those among your team that are most encouraging and feed off of that.
+* Be mindful. You are learning to write code. Ask for pattern advice. Copy patterns present in the codebase for practice and consistency. Ask questions about why a decision was made.
+* Be open. Please do bring your ideas forward. This will help you learn and bring new things to the table. Learn to be open to the ideas of others at the same time. This dance is hard. Don't sweat it, but do learn it.
+* Be aware. Listen. Gather information. Then ask questions about what you're missing.
+* Be present. Show up to things. Speak up in meetings and discussions. These things will help you learn and will help others trust you.
+* Be responsible. You will rarely be asked at this stage to estimate, but be careful that you don't overpromise things. Communicate blockers and anything that you don't understand.
+* Be flexible. Communicate blockers. Right now, you probably should avoid breaking the rules. If you think that you need to get around process to make progress, ask for some advice and help. Maybe someone knows another way! Maybe you were right. Discussion will help vett this out.
 
 ## Responsibilities of a Development Team Lead
 Following are some useful tasks for Development Team Leads to take on and own. This is by no means an exhaustive list, or a required list, but rather a list of recommendations. Your unique work environment, team structure and team makeup will determine which of these items are useful or necessary.
