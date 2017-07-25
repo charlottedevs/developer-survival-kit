@@ -2,7 +2,7 @@
 wisdom for developers
 
 ## Responsibilities of a Developer
-Following are some useful traits and practices for Developers. This is by no means an exhaustive list, and it's by no means a required list, but rather a collection of recommendations. Your workplace will determine your required responsibilities and the things you must do to maintain your position in the organization. This is a list of things you should do as a good Develpment Team Member or a citizen of your organization.
+Following are some useful traits and practices for Developers. This is by no means an exhaustive list, and it's by no means a required list, but rather a collection of recommendations. Your workplace will determine your required responsibilities and the things you must do to maintain your position in the organization. This is a list of things you should do as a good Development Team Member or a citizen of your organization.
 
 * __Be a team player.__ Follow your team's conventions and processes
 * __Be vocal.__ Communicate frequently: particularly blockers, risk or other inhibitors to progress
@@ -27,7 +27,7 @@ As a junior, your primary role is to learn the domain knowledge of your workplac
 * __Be aware.__ Listen. Gather information. Then ask questions about what you're missing.
 * __Be present.__ Show up to things. Speak up in meetings and discussions. These things will help you learn and will help others trust you.
 * __Be responsible.__ You will rarely be asked at this stage to estimate, but be careful that you don't overpromise things. Communicate blockers and anything that you don't understand.
-* __Be flexible.__ Communicate blockers. Right now, you probably should avoid breaking the rules. If you think that you need to get around process to make progress, ask for some advice and help. Maybe someone knows another way! Maybe you were right. Discussion will help vett this out.
+* __Be flexible.__ Right now, you probably should avoid breaking the rules. If you think that you need to get around process to make progress, ask for some advice and help. Maybe someone knows another way! Maybe you were right. Discussion will help vet this out. Above all, be willing to jump in and help out in whatever way you're asked. Be willing to play whatever role your team needs.
 
 ## Responsibilities of a Development Team Lead
 Following are some useful tasks for Development Team Leads to take on and own. This is by no means an exhaustive list, or a required list, but rather a list of recommendations. Your unique work environment, team structure and team makeup will determine which of these items are useful or necessary.
@@ -75,7 +75,7 @@ Following are some useful tasks for Development Team Leads to take on and own. T
   * Communicate early and often. Bad news does not improve with age.
 * __Own your team's internal communications and promote active discussion__
   * Promote discussion on #Slack, HipChat or whatever your team uses
-  * If your team doesn't have a discsussion forum, set one up!
+  * If your team doesn't have a discussion forum, set one up!
   * Participate in discussion so that team members know it's ok
   * Share non-work-related information, news, etc. to let team members know it's ok
 * __Own your team's deliverables, deadlines and commitments__
