@@ -4,7 +4,7 @@ wisdom for developers
 ## Handy Resources
 * [Shortcuts & Snippets](SHORTCUTS.md)
 * [Regular Expressions (RegEx)](REGEX.md)
-* [Trello Contributions Board](https://trello.com/b/HKMaFZrp)
+* [Trello Contributions Board](https://trello.com/invite/b/HKMaFZrp/cdfa43ed2347c2dc5d07a6ef174f0327/organizer)
 
 ## Responsibilities of a Developer
 Following are some useful traits and practices for Developers. This is by no means an exhaustive list, and it's by no means a required list, but rather a collection of recommendations. Your workplace will determine your required responsibilities and the things you must do to maintain your position in the organization. This is a list of things you should do as a good Development Team Member or a citizen of your organization.
