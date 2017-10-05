@@ -4,6 +4,7 @@ wisdom for developers
 ## Handy Resources
 * [Shortcuts & Snippets](SHORTCUTS.md)
 * [Regular Expressions (RegEx)](REGEX.md)
+* [Pull Request Checklist](PULL-REQUESTS.md)
 * [Trello Contributions Board](https://trello.com/invite/b/HKMaFZrp/cdfa43ed2347c2dc5d07a6ef174f0327/organizer)
 
 ## Responsibilities of a Developer
