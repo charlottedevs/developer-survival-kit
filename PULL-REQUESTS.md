@@ -8,7 +8,7 @@ Good Pull Requests start well before you write your first line of code. Be prepa
 1. In the absence of guidelines, use a consistent, meaningful branch naming convention. Consider using the story or task identifier in the branch name.
 1. Keep the work to a single feature / story / task to limit the scope of the upcoming PR
 1. Use meaningful commit messages:
-  * Great: `ABC-123: Updated logic to include the correct coefficient multiplier based on the information provided by @teammate in our grooming session on 10/02`
+  * Great: `FIX: ABC-123: Updated logic to include the correct coefficient multiplier`
   * Good: `Updated logic to include the correct coefficient multiplier`
   * Poor: `Fixed some things`
   * Bad:  ` `
@@ -38,7 +38,7 @@ Aside from writing good, clean code, completing the tasks you're assigned and th
 1. @mention anyone who you specifically want to review/comment on a section
 1. Make sure you have left good comments in the PR explaining the changes
 1. Make sure there are no Merge Conflicts; address them immediately if they are present
-1. Add inline comments in the PR for anything you feel might warrant explanation
+1. Add preemptive explanations to areas of the code you feel might raise questions from reviewers, particularly if you had to make hard decisions, use a non-standard solution or break convention.  
 1. Expect feedback / changes to come; be open to and receptive of the feedback
 1. Immediately review your own PR as if you were the reviewer. Use the checklist below to check your own work before you ask for peer review.
 
